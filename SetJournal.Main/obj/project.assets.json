@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "SetJournal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/SetJournal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SetJournal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SetJournal/1.0.0": {
+      "type": "project",
+      "path": "../SetJournal/SetJournal.csproj",
+      "msbuildProject": "../SetJournal/SetJournal.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "SetJournal >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HumbleIcarus\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal.Main\\SetJournal.Main.csproj",
+      "projectName": "SetJournal.Main",
+      "projectPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal.Main\\SetJournal.Main.csproj",
+      "packagesPath": "C:\\Users\\HumbleIcarus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal.Main\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HumbleIcarus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj": {
+              "projectPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\bin\Debug\net9.0\SetJournal.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\bin\Debug\net9.0\SetJournal.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\bin\Debug\net9.0\SetJournal.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\SetJournal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\SetJournal.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\SetJournal.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\SetJournal.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\SetJournal.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\SetJournal.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\refint\SetJournal.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\SetJournal.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Questionnaire-For-Trading\SetJournal\obj\Debug\net9.0\ref\SetJournal.dll
