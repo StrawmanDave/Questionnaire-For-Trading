@@ -17,8 +17,8 @@
   "libraries": {
     "SetJournal/1.0.0": {
       "type": "project",
-      "path": "../SetJournal/SetJournal.csproj",
-      "msbuildProject": "../SetJournal/SetJournal.csproj"
+      "path": "../SetJOurnal/SetJournal.csproj",
+      "msbuildProject": "../SetJOurnal/SetJournal.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -51,8 +51,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj": {
-              "projectPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj"
+            "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJOurnal\\SetJournal.csproj": {
+              "projectPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJOurnal\\SetJournal.csproj"
             }
           }
         }

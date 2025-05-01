@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj": {
-                "projectPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj"
+              "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJOurnal\\SetJournal.csproj": {
+                "projectPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJOurnal\\SetJournal.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj": {
+    "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJOurnal\\SetJournal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj",
+        "projectUniqueName": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJOurnal\\SetJournal.csproj",
         "projectName": "SetJournal",
-        "projectPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\SetJournal.csproj",
+        "projectPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJOurnal\\SetJournal.csproj",
         "packagesPath": "C:\\Users\\HumbleIcarus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJournal\\obj\\",
+        "outputPath": "C:\\Users\\HumbleIcarus\\Documents\\Programming 1410-1415\\Questionnaire-For-Trading\\SetJOurnal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HumbleIcarus\\AppData\\Roaming\\NuGet\\NuGet.Config"
